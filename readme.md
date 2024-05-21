@@ -1,3 +1,6 @@
+# Lung-Tidal-Capacity-Model
+A simple linear regression model to predict Tidal Lung Capacity from Age, Height, Gender and other symptoms
+
 ## HOW TO RUN THE MODEL
 - Use the predict function in TrainedDemo.ipynb file to use the model.<br>
 - The model was made/trained in linearregressionmodel.ipynb file, the trained model was saved as LinRegMODELpallav.pkl and Is loaded in the TrainedDemo.ipynb notebook.
